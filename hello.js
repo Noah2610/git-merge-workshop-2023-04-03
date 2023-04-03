@@ -1,6 +1,6 @@
 function sayHello() {
-    for (let i = 5; i < 20; i++) {
-        console.log("6 - 20: " + i + 1);
+    for (let i = 3; i < 10; i++) {
+        console.log("num: " + i + 1);
     }
 }
 
