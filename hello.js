@@ -1,5 +1,5 @@
 for (let i = 0; i < 10; i++) {
-    console.log("Hi " + i);
+    console.log("Hiiii " + i);
 }
 
-console.log("Hello from github.com!");
+console.log("Hello from github.com!!!!");
